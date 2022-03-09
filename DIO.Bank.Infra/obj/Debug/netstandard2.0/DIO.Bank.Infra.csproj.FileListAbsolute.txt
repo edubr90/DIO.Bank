@@ -1,0 +1,9 @@
+C:\Projetos\DIO\DIO.Bank\DIO.Bank.Infra\bin\Debug\netstandard2.0\DIO.Bank.Infra.deps.json
+C:\Projetos\DIO\DIO.Bank\DIO.Bank.Infra\bin\Debug\netstandard2.0\DIO.Bank.Infra.dll
+C:\Projetos\DIO\DIO.Bank\DIO.Bank.Infra\bin\Debug\netstandard2.0\DIO.Bank.Infra.pdb
+C:\Projetos\DIO\DIO.Bank\DIO.Bank.Infra\obj\Debug\netstandard2.0\DIO.Bank.Infra.csprojAssemblyReference.cache
+C:\Projetos\DIO\DIO.Bank\DIO.Bank.Infra\obj\Debug\netstandard2.0\DIO.Bank.Infra.AssemblyInfoInputs.cache
+C:\Projetos\DIO\DIO.Bank\DIO.Bank.Infra\obj\Debug\netstandard2.0\DIO.Bank.Infra.AssemblyInfo.cs
+C:\Projetos\DIO\DIO.Bank\DIO.Bank.Infra\obj\Debug\netstandard2.0\DIO.Bank.Infra.csproj.CoreCompileInputs.cache
+C:\Projetos\DIO\DIO.Bank\DIO.Bank.Infra\obj\Debug\netstandard2.0\DIO.Bank.Infra.dll
+C:\Projetos\DIO\DIO.Bank\DIO.Bank.Infra\obj\Debug\netstandard2.0\DIO.Bank.Infra.pdb

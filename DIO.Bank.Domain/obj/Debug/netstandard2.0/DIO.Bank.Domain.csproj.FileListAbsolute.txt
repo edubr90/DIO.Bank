@@ -1,0 +1,12 @@
+C:\Projetos\DIO\DIO.Bank\DIO.Bank.Domain\bin\Debug\netstandard2.0\DIO.Bank.Domain.deps.json
+C:\Projetos\DIO\DIO.Bank\DIO.Bank.Domain\bin\Debug\netstandard2.0\DIO.Bank.Domain.dll
+C:\Projetos\DIO\DIO.Bank\DIO.Bank.Domain\bin\Debug\netstandard2.0\DIO.Bank.Domain.pdb
+C:\Projetos\DIO\DIO.Bank\DIO.Bank.Domain\bin\Debug\netstandard2.0\DIO.Bank.Infra.dll
+C:\Projetos\DIO\DIO.Bank\DIO.Bank.Domain\bin\Debug\netstandard2.0\DIO.Bank.Infra.pdb
+C:\Projetos\DIO\DIO.Bank\DIO.Bank.Domain\obj\Debug\netstandard2.0\DIO.Bank.Domain.csprojAssemblyReference.cache
+C:\Projetos\DIO\DIO.Bank\DIO.Bank.Domain\obj\Debug\netstandard2.0\DIO.Bank.Domain.AssemblyInfoInputs.cache
+C:\Projetos\DIO\DIO.Bank\DIO.Bank.Domain\obj\Debug\netstandard2.0\DIO.Bank.Domain.AssemblyInfo.cs
+C:\Projetos\DIO\DIO.Bank\DIO.Bank.Domain\obj\Debug\netstandard2.0\DIO.Bank.Domain.csproj.CoreCompileInputs.cache
+C:\Projetos\DIO\DIO.Bank\DIO.Bank.Domain\obj\Debug\netstandard2.0\DIO.Bank.Domain.csproj.CopyComplete
+C:\Projetos\DIO\DIO.Bank\DIO.Bank.Domain\obj\Debug\netstandard2.0\DIO.Bank.Domain.dll
+C:\Projetos\DIO\DIO.Bank\DIO.Bank.Domain\obj\Debug\netstandard2.0\DIO.Bank.Domain.pdb

@@ -1,0 +1,14 @@
+C:\Projetos\DIO\DIO.Bank\DIO.Bank.Application\bin\Debug\netstandard2.0\DIO.Bank.Application.deps.json
+C:\Projetos\DIO\DIO.Bank\DIO.Bank.Application\bin\Debug\netstandard2.0\DIO.Bank.Application.dll
+C:\Projetos\DIO\DIO.Bank\DIO.Bank.Application\bin\Debug\netstandard2.0\DIO.Bank.Application.pdb
+C:\Projetos\DIO\DIO.Bank\DIO.Bank.Application\bin\Debug\netstandard2.0\DIO.Bank.Domain.dll
+C:\Projetos\DIO\DIO.Bank\DIO.Bank.Application\bin\Debug\netstandard2.0\DIO.Bank.Infra.dll
+C:\Projetos\DIO\DIO.Bank\DIO.Bank.Application\bin\Debug\netstandard2.0\DIO.Bank.Domain.pdb
+C:\Projetos\DIO\DIO.Bank\DIO.Bank.Application\bin\Debug\netstandard2.0\DIO.Bank.Infra.pdb
+C:\Projetos\DIO\DIO.Bank\DIO.Bank.Application\obj\Debug\netstandard2.0\DIO.Bank.Application.csprojAssemblyReference.cache
+C:\Projetos\DIO\DIO.Bank\DIO.Bank.Application\obj\Debug\netstandard2.0\DIO.Bank.Application.AssemblyInfoInputs.cache
+C:\Projetos\DIO\DIO.Bank\DIO.Bank.Application\obj\Debug\netstandard2.0\DIO.Bank.Application.AssemblyInfo.cs
+C:\Projetos\DIO\DIO.Bank\DIO.Bank.Application\obj\Debug\netstandard2.0\DIO.Bank.Application.csproj.CoreCompileInputs.cache
+C:\Projetos\DIO\DIO.Bank\DIO.Bank.Application\obj\Debug\netstandard2.0\DIO.Bank.Application.csproj.CopyComplete
+C:\Projetos\DIO\DIO.Bank\DIO.Bank.Application\obj\Debug\netstandard2.0\DIO.Bank.Application.dll
+C:\Projetos\DIO\DIO.Bank\DIO.Bank.Application\obj\Debug\netstandard2.0\DIO.Bank.Application.pdb

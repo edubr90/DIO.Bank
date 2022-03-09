@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+bZ1e62XVIguP5ASeptAVWR+oZan+ngajWNdFEuxWZR7bs0q25OB0IdyCZEZ1Csgt9vvNVHg5KkX745yZaw75w==",
+  "success": true,
+  "projectFilePath": "C:\\Projetos\\DIO\\DIO.Bank\\DIO.Shared\\DIO.Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JOOE\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\JOOE\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
